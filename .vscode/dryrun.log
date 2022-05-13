@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/timy/school/pos/senarclens/mulSource'
+gcc -std=c99 main.c inventory.c ui.c circuit.c interface.c -o main.o
+make: Leaving directory '/home/timy/school/pos/senarclens/mulSource'
+ 
